@@ -1,0 +1,37 @@
+#container {
+
+	width: 900px;
+}
+
+#header {
+
+	width: 900px;
+	height: 100px;
+	background-image: url(images/bkimg.png);
+	border-bottom: 2px solid #00000000;
+}
+
+#leftnavn {
+
+	float: left;
+	width: 140px;
+	height: 400px;
+	background-color: #694717
+}
+
+#rightnav {
+	float: right;
+	width: 140px;
+	height: 400px;
+	background-color: #F8AAC3
+}
+
+#body {
+width: 620px;
+}
+
+#footer {
+	clear: both;
+	background-color: #D1C0A7;
+}
+
